@@ -1,0 +1,15 @@
+/home/beast_tamer/c_sharp/ConsoleHello/bin/Debug/net6.0/ConsoleHello
+/home/beast_tamer/c_sharp/ConsoleHello/bin/Debug/net6.0/ConsoleHello.deps.json
+/home/beast_tamer/c_sharp/ConsoleHello/bin/Debug/net6.0/ConsoleHello.runtimeconfig.json
+/home/beast_tamer/c_sharp/ConsoleHello/bin/Debug/net6.0/ConsoleHello.dll
+/home/beast_tamer/c_sharp/ConsoleHello/bin/Debug/net6.0/ref/ConsoleHello.dll
+/home/beast_tamer/c_sharp/ConsoleHello/bin/Debug/net6.0/ConsoleHello.pdb
+/home/beast_tamer/c_sharp/ConsoleHello/obj/Debug/net6.0/ConsoleHello.csproj.AssemblyReference.cache
+/home/beast_tamer/c_sharp/ConsoleHello/obj/Debug/net6.0/ConsoleHello.GeneratedMSBuildEditorConfig.editorconfig
+/home/beast_tamer/c_sharp/ConsoleHello/obj/Debug/net6.0/ConsoleHello.AssemblyInfoInputs.cache
+/home/beast_tamer/c_sharp/ConsoleHello/obj/Debug/net6.0/ConsoleHello.AssemblyInfo.cs
+/home/beast_tamer/c_sharp/ConsoleHello/obj/Debug/net6.0/ConsoleHello.csproj.CoreCompileInputs.cache
+/home/beast_tamer/c_sharp/ConsoleHello/obj/Debug/net6.0/ConsoleHello.dll
+/home/beast_tamer/c_sharp/ConsoleHello/obj/Debug/net6.0/ref/ConsoleHello.dll
+/home/beast_tamer/c_sharp/ConsoleHello/obj/Debug/net6.0/ConsoleHello.pdb
+/home/beast_tamer/c_sharp/ConsoleHello/obj/Debug/net6.0/ConsoleHello.genruntimeconfig.cache
