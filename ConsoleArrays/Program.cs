@@ -15,7 +15,7 @@ void PrintArray(int[] array)
     Console.WriteLine();
 }
 
-int[] array = new int[10];
-PrintArray(array);
-FillArray(array);
-PrintArray(array);
+int[] arr = new int[10];
+PrintArray(arr);
+FillArray(arr);
+PrintArray(arr);

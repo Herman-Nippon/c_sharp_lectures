@@ -39,11 +39,11 @@ void BubbleSort(int length, int[] array)
     Console.WriteLine("The algo didn't finish before the last iteration");
 }
 
-int[] array = new int[20];
-int length = array.Length;
-FillArray(length, array);
-PrintArray(array);
+int[] arr = new int[20];
+int len = arr.Length;
+FillArray(len, arr);
+PrintArray(arr);
 
-BubbleSort(length, array);
-PrintArray(array);
+BubbleSort(len, arr);
+PrintArray(arr);
 

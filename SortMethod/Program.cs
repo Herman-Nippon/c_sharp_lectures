@@ -25,20 +25,20 @@ void PrintArray(int[] array)
     Console.WriteLine();
 }
 
-int[] array = new int[15];
+int[] arr = new int[15];
 int length = 15;
-FillArray(array, length);
+FillArray(arr, length);
 
 Console.Write("Original array: ");
-PrintArray(array);
+PrintArray(arr);
 
-SortArrayAscending(array);
+SortArrayAscending(arr);
 Console.Write("Array sorted in ascend order: ");
-PrintArray(array);
+PrintArray(arr);
 
-ReverseArray(array); // only reverses the existing array. Doesn't sort it.
+ReverseArray(arr); // only reverses the existing array. Doesn't sort it.
 Console.Write("Array sorted in descend order: ");
-PrintArray(array);
+PrintArray(arr);
 
 
 

@@ -31,11 +31,11 @@ void SelectiveSort(int[] array, int len)
     }
 }
 
-int[] array = new int[20];
-int length = array.Length;
+int[] arr = new int[20];
+int length = arr.Length;
 
-FillArray(array, length);
-PrintArray(array, length);
-SelectiveSort(array, length);
-PrintArray(array, length);
+FillArray(arr, length);
+PrintArray(arr, length);
+SelectiveSort(arr, length);
+PrintArray(arr, length);
 
