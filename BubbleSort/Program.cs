@@ -11,7 +11,7 @@ void FillArray(int length, int[] array)
 {
     for (int i = 0; i < length; ++i)
     {
-        array[i] = new Random().Next(1, 100);
+        array[i] = new Random().Next(1, 10);
     }
 }
 
@@ -33,9 +33,10 @@ void BubbleSort(int length, int[] array)
         if (!swapped)
         {
             Console.WriteLine($"The algo stopped at iteration {iteration + 1} of {length}");
-            break;
+            return;
         }
     }
+    Console.WriteLine("The algo didn't finish before the last iteration");
 }
 
 int[] array = new int[20];
